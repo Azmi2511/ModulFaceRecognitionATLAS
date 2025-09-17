@@ -56,8 +56,4 @@ pip install opencv-python face_recognition numpy mysql-connector-python
 
 ## Kontribusi
 
-Kontribusi sangat terbuka! Silakan buat pull request atau buka issue untuk perbaikan dan pengembangan fitur.
-
-## Lisensi
-
-Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
+Kontribusi sangat terbuka! Silakan buat pull request atau buka issue untuk perbaikan dan pengembanga
