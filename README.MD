@@ -23,8 +23,8 @@ pip install opencv-python face_recognition numpy mysql-connector-python
 1. Buat database dan tabel dengan query berikut di MySQL:
 
     ```sql
-    CREATE DATABASE IF NOT EXISTS atlas_absensi;
-    USE atlas_absensi;
+    CREATE DATABASE IF NOT EXISTS sekolah_db;
+    USE sekolah_db;
 
     CREATE TABLE IF NOT EXISTS siswa (
         id INT AUTO_INCREMENT PRIMARY KEY,
@@ -56,8 +56,4 @@ pip install opencv-python face_recognition numpy mysql-connector-python
 
 ## Kontribusi
 
-Kontribusi sangat terbuka! Silakan buat pull request atau buka issue untuk perbaikan dan pengembangan fitur.
-
-## Lisensi
-
-Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
+Kontribusi sangat terbuka! Silakan buat pull request atau buka issue untuk perbaikan dan pengembanga
